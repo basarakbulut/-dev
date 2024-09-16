@@ -1,0 +1,36 @@
+Soru: Kullanıcıdan iki sayı alarak bu sayıları toplayan bir programın pseudo kodunu yazın.
+Başla
+ Kullanıcıdan sayı al(sayi1)
+ Kullanıcıdan sayı al(sayi2)
+ toplam=(sayi1+sayi2)
+ sonuc=(toplam)
+Bitir
+
+
+Soru: 1'den 100'e kadar olan sayıları toplayan bir programın pseudo kodunu yazın.
+
+Başla
+  Toplam=0
+  i=1
+  i<100
+  Toplam=i
+  i++
+  Yaz:Toplam
+Bitiş
+
+
+Soru: Kullanıcıdan alınan bir sayının asal olup olmadığını bulan bir programın pseudo kodunu yazın.
+
+Başla
+ Kullanıcıdan sayı al
+ Eğer sayi<=1 
+ Yaz: sayi asal değil
+ Programı bitir
+ Değilse
+  Sayıyı 2'den başlat
+  Eğer sayi % i==0 ise
+  Yaz: sayi asal değil
+  Programı bitir
+   Değilse
+   Yaz: sayı asaldır
+Bitir
